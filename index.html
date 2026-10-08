@@ -1,0 +1,22 @@
+<!doctype html><meta charset="utf-8"><title>Skriuw — Install</title>
+<body style="font:16px/1.6 system-ui;max-width:46rem;margin:3rem auto;padding:0 1rem">
+<h1>Skriuw — Install</h1>
+<h2>Debian / Ubuntu (apt)</h2>
+<pre>curl -fsSL https://skriuw.github.io/packages/apt/key.gpg | sudo gpg --dearmor -o /usr/share/keyrings/skriuw.gpg
+echo "deb [signed-by=/usr/share/keyrings/skriuw.gpg] https://skriuw.github.io/packages/apt stable main" | sudo tee /etc/apt/sources.list.d/skriuw.list
+sudo apt update && sudo apt install skriuw</pre>
+<h2>Fedora / RHEL / openSUSE (dnf)</h2>
+<pre>sudo dnf config-manager addrepo --from-repofile=https://skriuw.github.io/packages/rpm/skriuw.repo
+sudo dnf install skriuw</pre>
+<h2>Arch (AUR)</h2>
+<pre>yay -S skriuw-bin   # or: paru -S skriuw-bin</pre>
+<h2>macOS (Homebrew)</h2>
+<pre>brew install --cask skriuw/tap/skriuw</pre>
+<h2>Windows (Scoop)</h2>
+<pre>scoop bucket add skriuw https://github.com/skriuw/scoop-bucket
+scoop install skriuw</pre>
+<h2>Direct downloads</h2>
+<p>Download macOS, Windows, Debian/Ubuntu, RPM, or AppImage assets from <a href="https://github.com/remcostoeten/skriuw/releases/latest">GitHub Releases</a>.</p>
+<p>Winget and Snap are published only after their respective store submissions succeed. They are intentionally not listed as current install channels here.</p>
+<p>Latest: v0.50.0</p>
+</body>
