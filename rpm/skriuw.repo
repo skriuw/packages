@@ -1,0 +1,7 @@
+[skriuw]
+name=Skriuw
+baseurl=https://skriuw.github.io/packages/rpm
+enabled=1
+gpgcheck=0
+repo_gpgcheck=1
+gpgkey=https://skriuw.github.io/packages/rpm/key.gpg
