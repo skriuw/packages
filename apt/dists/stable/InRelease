@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 13 Nov 2026 22:08:09 +0000
+Description: Skriuw desktop apt repository
+Label: Skriuw
+Origin: Skriuw
+Suite: stable
+MD5Sum:
+ d06b60e0688f43058929106a1fec4a9d              179 Release
+ 0a91f7aa11ea19d2a3f104d4981ee18e             1206 main/binary-amd64/Packages
+ 2d2bcd9010db90a86a8db7f9b9b0c994              541 main/binary-amd64/Packages.gz
+SHA1:
+ 3270291c81ae40c4ea4d873bbf4e48db7d7df3c1              179 Release
+ 525a951fafc4319a6db985366dec750504ae7fbf             1206 main/binary-amd64/Packages
+ 825a3a1116ebe09aff5386653abb100889e62385              541 main/binary-amd64/Packages.gz
+SHA256:
+ 738a8104a09a40209e4cfac141353f69d6be5b2389cca06525dad8886bd78d0c              179 Release
+ 76f118a5164f1c0dce7c53b7a898d5645bf0da57ab8795394cadf8174499f247             1206 main/binary-amd64/Packages
+ 68739532b16beffe744483bf7e170107c035929f1d7d6580682c73c58d5454dc              541 main/binary-amd64/Packages.gz
+SHA512:
+ 864e3cdb9d21616b79dd28e67374511bee68a1061503080c89ed18ff5f84bafbea1c06169aab92d2e0c085e4070fea92f44fa8c3732f3074766bcf03ae6225b0              179 Release
+ 0f00c88f41f1fe0a73888f850358ff8202be565f69bf739fa4dd363005ffde6e6b165aeb451335d3abcce53bd255298ade01673f71702e0c09fb05fad8da9181             1206 main/binary-amd64/Packages
+ 56c3cee45cfe63a5d3f36a9e70f00d2bbd8d44ea14476dff8c79c21d6712916dac2a3a80790de72f6dcde2bd4e35862f1a9734e7e4187fddb765e2e49fa650a2              541 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS8w49Xi8S80iFpxNh3Qss+1Pg3AgUCaveKSQAKCRB3Qss+1Pg3
+AlIMAQCmPA9Fx8wyJbfRBJGojwDzWmnTpFzXbJU6t+JkEjdoaQD/fBP489g/VX45
+06hBxlYYg5J2FJbgOhGsCoxZiFmmRQ8=
+=in3A
+-----END PGP SIGNATURE-----
