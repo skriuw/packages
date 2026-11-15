@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 15 Nov 2026 14:24:21 +0000
+Description: Skriuw desktop apt repository
+Label: Skriuw
+Origin: Skriuw
+Suite: stable
+MD5Sum:
+ d469a03b72a8479c5fffe665b134583f              179 Release
+ 9640a0c4c7b1d40ddafaae854321acba              804 main/binary-amd64/Packages
+ fa89b14146018d69cb65a1cbcc6e2560              439 main/binary-amd64/Packages.gz
+SHA1:
+ ec5d6ac8ec1cefa0647de71683a1b348f2c45963              179 Release
+ d702abdd38299a33472d59dbd2f55e7a10740863              804 main/binary-amd64/Packages
+ d505a0deb3f53e9c416330785893119349c0e5e2              439 main/binary-amd64/Packages.gz
+SHA256:
+ 940eb4c92dc8fd0d995244e19a455e4df014d82065aff846c599fe85df9daa51              179 Release
+ c2c63f182c03efa516a21b15849462fe093498291722afdf40e045dd84eb304c              804 main/binary-amd64/Packages
+ 2d545b2522ceb00da9ff1af79ce1d247ae73638c853510d167c13a7fda2a2831              439 main/binary-amd64/Packages.gz
+SHA512:
+ bc84119e2339a20ded5670c03ab46073ab7fd23c63fe25ac96c12bc2384fad059cba0a87b28215629811387223690ca6d83a2978a0e5ec73898568a0653cd813              179 Release
+ 96d83f5fae5d87fabaf45d6091750c2bcb62186d2e51e3f3bcc150b49b0dc3bff3c71d565f76a8ca637b1986d6e7aae3645c0ab4b6b13896426f6edbc0e3f8c9              804 main/binary-amd64/Packages
+ c2b6d65a92ea3f83cb9abfdc9c46d93c58157188ee59a825d306895bb35c54da04bb8ba64e334336fd99ef79f293183835f007d3d452f86412ab835068d494df              439 main/binary-amd64/Packages.gz
